@@ -1,5 +1,5 @@
 ## Taarufsyari sedang maintenance,
 
-server kami mengalami kelebihan beban,akan diperbaiki secepatnya.
+taarufsyari sedang upgrade dan migrasi ke server yang lebih baik memakan waktu hingga 2-5 hari kerja.
 
-jazakumullah khairan.
+mohon maaf atas ketidaknyamanannya, jazakumullah khairan.
